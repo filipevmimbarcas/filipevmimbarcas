@@ -1,11 +1,23 @@
-## 🚀 Sobre mim
-Atuo na área de redes desde 2019, a curiosidade em saber como as coisas funcionam me fez ingressar nesse mundo. Sou um profissional extremamente dedicado e motivado que busca constantemente aprender e aprimorar minhas habilidades em redes de computadores.
+# 🌐 Bem-vindo ao meu repositório!
 
-Atualmente estou no penúltimo semestre do curso de Tecnologia em Redes de Computadores no UniSenac Campus Pelotas e trabalho como Analista de Redes Junior na Vetorial Tecnologia. 
-## 🛠 Habilidades
-Possuo conhecimento em protocolos de rede, como TCP/IP, DHCP, DNS, VLANs, VPNs, QoS, OSPF, BGP, Python e Go
+Olá! Sou um **Analista de Redes** apaixonado por infraestrutura, segurança e tecnologias modernas. Aqui você encontrará projetos, tutoriais, scripts e estudos voltados para redes de computadores e áreas relacionadas.
 
-## 🔗 Links
-[![network blog](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://networkblog.com.br/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipevmimbarcas/)
+---
+## 📋 Sobre Mim  
+🎓 **Certificações:** FCA, MTCNA 
 
+🔧 **Especialidades:**  
+- Administração de Redes LAN/WAN  
+- Protocolos de Roteamento (OSPF, BGP, EIGRP)  
+- Configuração de Firewalls e VPNs  
+- Monitoramento e Troubleshooting de Redes  
+- Automação de Redes com Python e Golang  
+---
+
+
+## 📞 Entre em Contato  
+💼 LinkedIn: [Linkedin](https://linkedin.com/in/filipemimbarcas)  
+📧 E-mail: filipemimbarcas@gmail.com  
+🌐 Portfólio: [networkblog](https://networkblog.com.br)  
+
+---
