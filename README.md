@@ -18,6 +18,6 @@ Olá! Sou um **Analista de Redes** apaixonado por infraestrutura, segurança e t
 ## 📞 Entre em Contato  
 💼 LinkedIn: [filipemimbarcas](https://linkedin.com/in/filipemimbarcas)  
 📧 E-mail: filipemimbarcas@gmail.com  
-🌐 Portfólio: [networkblog](https://networkblog.com.br)  
+🌐 Website: [networkblog](https://networkblog.com.br)  
 
 ---
